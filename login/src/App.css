@@ -1,0 +1,140 @@
+.main{
+    display: grid;
+    grid-template-columns: auto ;
+    grid-column-gap:0px;
+    
+    position: relative;
+   
+
+}
+*{
+  margin: 0px;
+}
+.image{
+  opacity: 1;
+  background-color: linear-gradient(to right,black, black);
+  margin-bottom: 0px;
+  height : 48em;
+  width: 51.3%; 
+  border:0.5px solid #021a40; 
+  
+}
+
+  
+   
+
+
+
+.Login {
+  width: 100%;
+  position: relative;
+  
+
+}
+
+.Loginform{
+  
+  position:absolute;
+  
+  right: 0px;
+ 
+  background-image: linear-gradient( #89a7eb, #2f6dfd);
+  margin-bottom: 0px;
+  text-align:center;
+  padding-top: 10%;
+  margin-left: 0px;
+  width:38.4em;
+  height: 83%;
+  border:0.5px solid #021a40; 
+  
+  
+}
+
+.Loginform button {
+  background-image: linear-gradient(to right,#c23114,#d65e46);
+  border: none;
+  color: white;
+  padding-bottom: 0em;
+  text-align:center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 100px;
+  width:27%;
+  height:2.5em;
+   
+  
+}
+
+.Loginform input{
+  border: none;
+  border-radius: 20px;
+  color: white;
+  background-color:white;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  margin-left: 0px;
+  border-radius:8px;
+  padding-left:10px;
+ width: 420px;
+  height: 2.4em;
+  right: 20px;
+}
+
+.title{
+  padding-left: 5px;
+  font-family:RALEWAY THIN;
+  font-weight: 200;
+  font-size: 300%;
+
+}
+
+span{
+  font-family:RALEWAY THIN;
+  font-weight: bold;
+}
+.logo{
+  height:150px;
+  width:140px;
+  position: absolute;
+  left:90px;
+  top:36px;
+}
+
+.text {
+  position: absolute;
+  color: white;
+  font-size:50px ;
+  font-family:Helvetica, Arial, sans-serif;;
+  bottom: 100px;
+  left:20px;
+  font-weight: 100;
+  text-shadow:2px 2px 2px black;
+
+}
+.text span{
+  font-family:Helvetica, Arial, sans-serif;
+  font-size:9mm;
+  font-weight: normal;
+
+
+
+
+}
+ 
+
+
+
+
+
+
+
+
+
+  
+
+
